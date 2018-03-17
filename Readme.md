@@ -22,6 +22,8 @@ http://maxembedded.com/2015/06/setting-up-avr-gcc-toolchain-on-linux-and-mac-os-
 
 https://learn.sparkfun.com/tutorials/pocket-avr-programmer-hookup-guide/using-avrdude
 
+http://www.instructables.com/id/ATTiny-Port-Manipulation/
+
 ## Parts
 
 https://www.amazon.com/gp/product/B00B6KNJRY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
