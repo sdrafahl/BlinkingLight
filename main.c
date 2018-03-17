@@ -5,7 +5,7 @@
 int main (void)
 {
   // set PB3 to be output
-	DDRB = 0b00001000;
+  DDRB = 0b00001000;
   while (1) {
 
     // flash# 1:
